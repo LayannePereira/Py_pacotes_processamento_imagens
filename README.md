@@ -13,7 +13,6 @@ Bootcamp  Geração Tech Unimed-BH - Ciência de Dados</h2>
 ![Python](https://img.shields.io/badge/-Python-white?style=flat&logo=python)
 
 ##
-##
 <h4> Descomplicando a criação de pacotes de processamento de imagens em Python  </h4>
 
 <p> Neste projeto você aprenderá a criar o seu primeiro pacote de processamento de imagens e disponibilizá-lo no repositório Pypi. Assim você pode reutilizá-lo e compartilhá-lo facilmente com outras pessoas. </p>
